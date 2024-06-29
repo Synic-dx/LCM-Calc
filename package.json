@@ -3,7 +3,7 @@
     "jest": "^29.7.0"
   },
   "name": "lcm-calc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple tool to return the LCM of any two given integers.",
   "main": "lcm.js",
   "dependencies": {
