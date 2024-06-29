@@ -3,7 +3,7 @@
     "jest": "^29.7.0"
   },
   "name": "lcm-calc",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple tool to return the LCM of any two given integers.",
   "main": "lcm.js",
   "dependencies": {
@@ -201,8 +201,16 @@
   "keywords": [
     "LCM",
     "LCM-Calculator",
-    "Least-Common-Factor"
+    "Least-Common-Multiple"
   ],
-  "author": "Synic-dx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Synic-dx/LCM-Calc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Synic-dx/LCM-Calc/issues"
+  },
+  "homepage": "https://github.com/Synic-dx/LCM-Calc/tree/master",
+  "author": "Shinjan",
   "license": "MIT"
 }
